@@ -1,0 +1,41 @@
+.navbar-brand img{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+}
+body{
+	background-color:#D0ECE7;
+}
+  background-color: #2d3436;
+  padding: 110px 0px 80px;
+}
+#Contact{
+  background-color: #2d3436;
+  padding: 110px 0px 80px;
+}
+#Contact .contact-item-1{}
+#Contact .contact-item-1 p{
+
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #dfe6e9;
+  margin-top: 50px;
+}
+#Contact .contact-items .contact-link{
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  /*justify-content: center;*/
+  /*align-items: center;*/
+
+}
+
+.copyright{
+  background: #2d3436 ;
+  color: #dfe6e9;
+  font-size: 15px;
+  padding-bottom: 20px;
+}
